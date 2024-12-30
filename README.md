@@ -1,6 +1,6 @@
 # Curso em Vídeo
 
-![preview](https://rainirrangel.github.io/html-css/exercicios/desafio010/imagens/preview.png)
+![preview](https://rainirrangel.github.io/html-css/exercicios/desafio010/imagens/preview.PNG)
 
 # html-css
 This is my folder of studies, please give me a feedback to improve my skills.
