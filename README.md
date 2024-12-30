@@ -11,11 +11,11 @@ The intention for the nav menu is go to another pages about the theme.
 
 [🔗 Click here to access the final exercise of the module 2 of the course](https://rainirrangel.github.io/html-css/exercicios/desafio010)
 
-## Tecnologias
+## Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
 ## 💻 Contact
 
