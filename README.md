@@ -17,6 +17,6 @@ The intention for the nav menu is go to another pages about the theme.
 - CSS
 - Git e Github
 
-## 💻 Contato
+## 💻 Contact
 
 rainir11r@gmail.com
